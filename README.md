@@ -1,1 +1,1 @@
-# gitstudy2
+# update gitstudy2 developer b
