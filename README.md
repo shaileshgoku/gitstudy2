@@ -1,1 +1,1 @@
-# gitstudy2
+# update gitstudy2 adding developer a story
